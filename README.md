@@ -26,10 +26,10 @@ This is an ongoing project and the requirements are listed below. Updates will b
 
 
 
-# Datasets
+## Datasets
 The following datasets have been used for training and testing this system.
-## 1. SignverOD: https://www.kaggle.com/datasets/victordibia/signverod?resource=download-directory
-### Citations
+### 1. SignverOD: https://www.kaggle.com/datasets/victordibia/signverod?resource=download-directory
+#### Citations
 If you use this dataset as part of your work or experiments, please consider citing:
 
 @article{
