@@ -6,7 +6,9 @@ This is an ongoing project and the requirements are listed below. Updates will b
 [☑️: Development in progress]
 
 ## Key Requirements:
-☑️ Optical Character Recognition (OCR) to extract text from scanned contracts (Tesseract, Google Vision AI, Amazon Textract)
+☑️ Data Gathering and/or generation
+
+✅ Optical Character Recognition (OCR) to extract text from scanned contracts (Using Tesseract)
 
 ✅ Signature Field Detection – Identify words like "Signed by," "Signature," "Authorized Representative," and determine if a signature is present
 
@@ -21,3 +23,29 @@ This is an ongoing project and the requirements are listed below. Updates will b
 ✅ Integration – Connect with Google Drive, OneDrive, Dropbox, DocuSign, or SharePoint to fetch and audit contracts
 
 ✅ User-Friendly Dashboard – A web-based or Excel-based reporting tool to track audits and flagged contracts
+
+
+
+# Datasets
+The following datasets have been used for training and testing this system.
+### SignverOD: https://www.kaggle.com/datasets/victordibia/signverod?resource=download-directory
+#### Citations
+If you use this dataset as part of your work or experiments, please consider citing:
+@article{
+DibiaReed2022signverod, author = {Victor, Dibia},
+title = {A Dataset for Handwritten Signature ObjectDetection in Scanned Documents.},
+year = {2022},
+publisher = {victordibia.com},
+journal = {victordibia.com},
+url = {https://victordibia.com/signverod.pdf}
+}
+
+@article{
+Dibia2022signver,
+author = {Victor, Dibia and Andrew Reed},
+title = {SignVer: A Deep Learning Library for Automatic Offline Signature Verification Tasks},
+year = {2022},
+publisher = {victordibia.com},
+journal = {victordibia.com},
+url = {https://victordibia.com/signver.pdf}
+}
