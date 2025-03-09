@@ -2,6 +2,7 @@
 This is an ongoing project and the requirements are listed below. Updates will be made to this document as the project progresses.
 
 [✅: Development to be started]
+
 [☑️: Development in progress]
 
 ## Key Requirements:
