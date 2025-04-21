@@ -8,11 +8,11 @@ This is an ongoing project and the requirements are listed below. Updates will b
 [✅: Development Completed]
 
 ## Key Requirements:
-☑️ Data Gathering and/or generation
+✅ Data Gathering and/or generation
 
-☑️ Optical Character Recognition (OCR) to extract text from scanned contracts (Using Tesseract)
+✅ Optical Character Recognition (OCR) to extract text from scanned contracts (Using Tesseract)
 
-🟧 Signature Field Detection – Identify words like "Signed by," "Signature," "Authorized Representative," and determine if a signature is present
+☑️ Signature Field Detection – Identify words like "Signed by," "Signature," "Authorized Representative," and determine if a signature is present
 
 🟧 Handwritten Signature Detection – Use AI or pattern recognition to identify if a contract has a handwritten signature
 
