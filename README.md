@@ -12,6 +12,8 @@ This is an ongoing project and the requirements are listed below. Updates will b
 
 ✅ Optical Character Recognition (OCR) to extract text from scanned contracts (Using Tesseract)
 
+☑️ Text Localisation and Detection
+
 ☑️ Signature Field Detection – Identify words like "Signed by," "Signature," "Authorized Representative," and determine if a signature is present
 
 🟧 Handwritten Signature Detection – Use AI or pattern recognition to identify if a contract has a handwritten signature
