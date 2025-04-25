@@ -16,7 +16,7 @@ This is an ongoing project and the requirements are listed below. Updates will b
 
 ☑️ Signature Field Detection – Identify words like "Signed by," "Signature," "Authorized Representative," and determine if a signature is present
 
-🟧 Handwritten Signature Detection – Use AI or pattern recognition to identify if a contract has a handwritten signature
+☑️ Handwritten Signature Detection – Use AI or pattern recognition to identify if a contract has a handwritten signature
 
 🟧 Digital Signature Validation – If a contract is e-signed (DocuSign, Adobe Sign), verify if all required signers have signed
 
